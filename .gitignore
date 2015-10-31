@@ -1,1 +1,7 @@
 target/
+.gradle/
+gradle/
+*.iml
+*.ipr
+*.iws
+out/
